@@ -16,7 +16,7 @@ Fique a vontade para olhar meus projetos! ⭐
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Python?style=social&logo=Python&logoColor=%20yellow&logoSize=12px&label=https%3A%2F%2Fshields.io%2Fbadges&labelColor=white&color=blue">
+    <img alt="VS Code" src="https://img.shields.io/badge/-vs_code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </div>
 
 Estou aprendendo cada vez mais sobre programação, Por enquanto utilizo somente o básico!
