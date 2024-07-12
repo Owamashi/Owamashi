@@ -20,7 +20,7 @@ Fique a vontade para olhar meus projetos! ⭐
 </div>
 
 Estou aprendendo cada vez mais sobre programação, Por enquanto utilizo somente o básico!
-
+(por enquanto não criei nenhum projeto de ciência de dados XD)
 ----
 
 
